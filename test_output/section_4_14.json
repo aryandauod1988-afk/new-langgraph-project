@@ -1,6 +1,0 @@
-{
-  "section_name": "section_4_14",
-  "section_citation": "§ 4.14 Avoidance of pyramiding.",
-  "permalink": "sample_ecfr.xml#section_4_14",
-  "raw_xml": "<SECTION>\n                <HEAD>§ 4.14 Avoidance of pyramiding.</HEAD>\n                <P>This section describes avoidance of pyramiding in disability ratings.</P>\n                <TABLE>\n                    <TR>\n                        <TD>Rating Code</TD>\n                        <TD>Description</TD>\n                        <TD>Percentage</TD>\n                    </TR>\n                    <TR>\n                        <TD>5001</TD>\n                        <TD>Sample condition</TD>\n                        <TD>10%</TD>\n                    </TR>\n                </TABLE>\n                <P>The table above shows rating examples.</P>\n            </SECTION>\n            "
-}
